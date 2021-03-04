@@ -1,0 +1,501 @@
+label,bytes,grpThreads,allThreads,Latency
+REST GET expenses,217201,1,1,85
+Transaction Controller,217201,1,1,85
+REST GET expenses,217201,1,1,87
+Transaction Controller,217201,1,1,87
+REST GET expenses,217201,1,1,103
+Transaction Controller,217201,1,1,103
+REST GET expenses,217201,1,1,94
+Transaction Controller,217201,1,1,94
+REST GET expenses,217201,1,1,90
+Transaction Controller,217201,1,1,90
+REST GET expenses,217201,1,1,99
+Transaction Controller,217201,1,1,99
+REST GET expenses,217201,1,1,103
+Transaction Controller,217201,1,1,103
+REST GET expenses,217201,1,1,95
+Transaction Controller,217201,1,1,95
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,97
+Transaction Controller,217201,1,1,97
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,106
+Transaction Controller,217201,1,1,106
+REST GET expenses,217201,1,1,92
+Transaction Controller,217201,1,1,92
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,93
+Transaction Controller,217201,1,1,93
+REST GET expenses,217201,1,1,100
+Transaction Controller,217201,1,1,100
+REST GET expenses,217201,1,1,103
+Transaction Controller,217201,1,1,103
+REST GET expenses,217201,1,1,100
+Transaction Controller,217201,1,1,100
+REST GET expenses,217201,1,1,91
+Transaction Controller,217201,1,1,91
+REST GET expenses,217201,1,1,99
+Transaction Controller,217201,1,1,99
+REST GET expenses,217201,1,1,93
+Transaction Controller,217201,1,1,93
+REST GET expenses,217201,1,1,107
+Transaction Controller,217201,1,1,107
+REST GET expenses,217201,1,1,96
+Transaction Controller,217201,1,1,96
+REST GET expenses,217201,1,1,104
+Transaction Controller,217201,1,1,104
+REST GET expenses,217201,1,1,97
+Transaction Controller,217201,1,1,97
+REST GET expenses,217201,1,1,99
+Transaction Controller,217201,1,1,99
+REST GET expenses,217201,1,1,101
+Transaction Controller,217201,1,1,101
+REST GET expenses,217201,1,1,106
+Transaction Controller,217201,1,1,106
+REST GET expenses,217201,1,1,111
+Transaction Controller,217201,1,1,111
+REST GET expenses,217201,1,1,97
+Transaction Controller,217201,1,1,97
+REST GET expenses,217201,1,1,89
+Transaction Controller,217201,1,1,89
+REST GET expenses,217201,1,1,94
+Transaction Controller,217201,1,1,94
+REST GET expenses,217201,1,1,102
+Transaction Controller,217201,1,1,102
+REST GET expenses,217201,1,1,95
+Transaction Controller,217201,1,1,95
+REST GET expenses,217201,1,1,94
+Transaction Controller,217201,1,1,94
+REST GET expenses,217201,1,1,93
+Transaction Controller,217201,1,1,93
+REST GET expenses,217201,1,1,113
+Transaction Controller,217201,1,1,113
+REST GET expenses,217201,1,1,91
+Transaction Controller,217201,1,1,91
+REST GET expenses,217201,1,1,94
+Transaction Controller,217201,1,1,94
+REST GET expenses,217201,1,1,93
+Transaction Controller,217201,1,1,93
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,101
+Transaction Controller,217201,1,1,101
+REST GET expenses,217201,1,1,97
+Transaction Controller,217201,1,1,97
+REST GET expenses,217201,1,1,106
+Transaction Controller,217201,1,1,106
+REST GET expenses,217201,1,1,100
+Transaction Controller,217201,1,1,100
+REST GET expenses,217201,1,1,91
+Transaction Controller,217201,1,1,91
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,98
+Transaction Controller,217201,1,1,98
+REST GET expenses,217201,1,1,96
+Transaction Controller,217201,1,1,96
+REST GET expenses,217201,1,1,94
+Transaction Controller,217201,1,1,94
+GQL GET Expenses,256218,1,1,145
+Transaction Controller,256218,1,1,145
+GQL GET Expenses,256218,1,1,136
+Transaction Controller,256218,1,1,136
+GQL GET Expenses,256218,1,1,115
+Transaction Controller,256218,1,1,115
+GQL GET Expenses,256218,1,1,111
+Transaction Controller,256218,1,1,111
+GQL GET Expenses,256218,1,1,138
+Transaction Controller,256218,1,1,138
+GQL GET Expenses,256218,1,1,140
+Transaction Controller,256218,1,1,140
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,108
+Transaction Controller,256218,1,1,108
+GQL GET Expenses,256218,1,1,110
+Transaction Controller,256218,1,1,110
+GQL GET Expenses,256218,1,1,136
+Transaction Controller,256218,1,1,136
+GQL GET Expenses,256218,1,1,111
+Transaction Controller,256218,1,1,111
+GQL GET Expenses,256218,1,1,108
+Transaction Controller,256218,1,1,108
+GQL GET Expenses,256218,1,1,108
+Transaction Controller,256218,1,1,108
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,106
+Transaction Controller,256218,1,1,106
+GQL GET Expenses,256218,1,1,101
+Transaction Controller,256218,1,1,101
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,110
+Transaction Controller,256218,1,1,110
+GQL GET Expenses,256218,1,1,106
+Transaction Controller,256218,1,1,106
+GQL GET Expenses,256218,1,1,133
+Transaction Controller,256218,1,1,133
+GQL GET Expenses,256218,1,1,107
+Transaction Controller,256218,1,1,107
+GQL GET Expenses,256218,1,1,104
+Transaction Controller,256218,1,1,104
+GQL GET Expenses,256218,1,1,112
+Transaction Controller,256218,1,1,112
+GQL GET Expenses,256218,1,1,104
+Transaction Controller,256218,1,1,104
+GQL GET Expenses,256218,1,1,110
+Transaction Controller,256218,1,1,110
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,129
+Transaction Controller,256218,1,1,129
+GQL GET Expenses,256218,1,1,110
+Transaction Controller,256218,1,1,110
+GQL GET Expenses,256218,1,1,111
+Transaction Controller,256218,1,1,111
+GQL GET Expenses,256218,1,1,112
+Transaction Controller,256218,1,1,112
+GQL GET Expenses,256218,1,1,112
+Transaction Controller,256218,1,1,112
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,111
+Transaction Controller,256218,1,1,111
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,104
+Transaction Controller,256218,1,1,104
+GQL GET Expenses,256218,1,1,108
+Transaction Controller,256218,1,1,108
+GQL GET Expenses,256218,1,1,130
+Transaction Controller,256218,1,1,130
+GQL GET Expenses,256218,1,1,116
+Transaction Controller,256218,1,1,116
+GQL GET Expenses,256218,1,1,106
+Transaction Controller,256218,1,1,106
+GQL GET Expenses,256218,1,1,107
+Transaction Controller,256218,1,1,107
+GQL GET Expenses,256218,1,1,104
+Transaction Controller,256218,1,1,104
+GQL GET Expenses,256218,1,1,105
+Transaction Controller,256218,1,1,105
+GQL GET Expenses,256218,1,1,104
+Transaction Controller,256218,1,1,104
+GQL GET Expenses,256218,1,1,106
+Transaction Controller,256218,1,1,106
+GQL GET Expenses,256218,1,1,110
+Transaction Controller,256218,1,1,110
+GQL GET Expenses,256218,1,1,109
+Transaction Controller,256218,1,1,109
+GQL GET Expenses,256218,1,1,126
+Transaction Controller,256218,1,1,126
+GQL GET Expenses,256218,1,1,103
+Transaction Controller,256218,1,1,103
+REST GET users,72673,1,1,42
+Transaction Controller,72673,1,1,42
+REST GET users,72673,1,1,34
+Transaction Controller,72673,1,1,34
+REST GET users,72673,1,1,29
+Transaction Controller,72673,1,1,29
+REST GET users,72673,1,1,42
+Transaction Controller,72673,1,1,42
+REST GET users,72673,1,1,30
+Transaction Controller,72673,1,1,30
+REST GET users,72673,1,1,34
+Transaction Controller,72673,1,1,34
+REST GET users,72673,1,1,44
+Transaction Controller,72673,1,1,44
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,43
+Transaction Controller,72673,1,1,43
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,36
+Transaction Controller,72673,1,1,36
+REST GET users,72673,1,1,36
+Transaction Controller,72673,1,1,36
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET users,72673,1,1,40
+Transaction Controller,72673,1,1,40
+REST GET users,72673,1,1,38
+Transaction Controller,72673,1,1,38
+REST GET users,72673,1,1,45
+Transaction Controller,72673,1,1,45
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,42
+Transaction Controller,72673,1,1,42
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET users,72673,1,1,51
+Transaction Controller,72673,1,1,51
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,36
+Transaction Controller,72673,1,1,36
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET users,72673,1,1,40
+Transaction Controller,72673,1,1,40
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,50
+Transaction Controller,72673,1,1,50
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,44
+Transaction Controller,72673,1,1,44
+REST GET users,72673,1,1,44
+Transaction Controller,72673,1,1,44
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,40
+Transaction Controller,72673,1,1,40
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET users,72673,1,1,40
+Transaction Controller,72673,1,1,40
+REST GET users,72673,1,1,45
+Transaction Controller,72673,1,1,45
+REST GET users,72673,1,1,45
+Transaction Controller,72673,1,1,45
+REST GET users,72673,1,1,40
+Transaction Controller,72673,1,1,40
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,37
+Transaction Controller,72673,1,1,37
+REST GET users,72673,1,1,35
+Transaction Controller,72673,1,1,35
+REST GET users,72673,1,1,42
+Transaction Controller,72673,1,1,42
+REST GET users,72673,1,1,42
+Transaction Controller,72673,1,1,42
+REST GET users,72673,1,1,41
+Transaction Controller,72673,1,1,41
+REST GET users,72673,1,1,39
+Transaction Controller,72673,1,1,39
+REST GET resolved,218483,1,1,99
+Transaction Controller,218483,1,1,99
+REST GET resolved,218483,1,1,90
+Transaction Controller,218483,1,1,90
+REST GET resolved,218483,1,1,82
+Transaction Controller,218483,1,1,82
+REST GET resolved,218483,1,1,91
+Transaction Controller,218483,1,1,91
+REST GET resolved,218483,1,1,79
+Transaction Controller,218483,1,1,79
+REST GET resolved,218483,1,1,93
+Transaction Controller,218483,1,1,93
+REST GET resolved,218483,1,1,87
+Transaction Controller,218483,1,1,87
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,93
+Transaction Controller,218483,1,1,93
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,88
+Transaction Controller,218483,1,1,88
+REST GET resolved,218483,1,1,85
+Transaction Controller,218483,1,1,85
+REST GET resolved,218483,1,1,86
+Transaction Controller,218483,1,1,86
+REST GET resolved,218483,1,1,94
+Transaction Controller,218483,1,1,94
+REST GET resolved,218483,1,1,90
+Transaction Controller,218483,1,1,90
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,89
+Transaction Controller,218483,1,1,89
+REST GET resolved,218483,1,1,82
+Transaction Controller,218483,1,1,82
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,78
+Transaction Controller,218483,1,1,78
+REST GET resolved,218483,1,1,82
+Transaction Controller,218483,1,1,82
+REST GET resolved,218483,1,1,86
+Transaction Controller,218483,1,1,86
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,88
+Transaction Controller,218483,1,1,88
+REST GET resolved,218483,1,1,86
+Transaction Controller,218483,1,1,86
+REST GET resolved,218483,1,1,86
+Transaction Controller,218483,1,1,86
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,91
+Transaction Controller,218483,1,1,91
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,85
+Transaction Controller,218483,1,1,85
+REST GET resolved,218483,1,1,82
+Transaction Controller,218483,1,1,82
+REST GET resolved,218483,1,1,88
+Transaction Controller,218483,1,1,88
+REST GET resolved,218483,1,1,95
+Transaction Controller,218483,1,1,95
+REST GET resolved,218483,1,1,93
+Transaction Controller,218483,1,1,93
+REST GET resolved,218483,1,1,91
+Transaction Controller,218483,1,1,91
+REST GET resolved,218483,1,1,80
+Transaction Controller,218483,1,1,80
+REST GET resolved,218483,1,1,84
+Transaction Controller,218483,1,1,84
+REST GET resolved,218483,1,1,81
+Transaction Controller,218483,1,1,81
+REST GET resolved,218483,1,1,83
+Transaction Controller,218483,1,1,83
+REST GET resolved,218483,1,1,90
+Transaction Controller,218483,1,1,90
+REST GET resolved,218483,1,1,93
+Transaction Controller,218483,1,1,93
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,102
+Transaction Controller,8232,1,1,102
+GQL GET resolved,8232,1,1,98
+Transaction Controller,8232,1,1,98
+GQL GET resolved,8232,1,1,83
+Transaction Controller,8232,1,1,83
+GQL GET resolved,8232,1,1,80
+Transaction Controller,8232,1,1,80
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,94
+Transaction Controller,8232,1,1,94
+GQL GET resolved,8232,1,1,90
+Transaction Controller,8232,1,1,90
+GQL GET resolved,8232,1,1,95
+Transaction Controller,8232,1,1,95
+GQL GET resolved,8232,1,1,85
+Transaction Controller,8232,1,1,85
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,116
+Transaction Controller,8232,1,1,116
+GQL GET resolved,8232,1,1,78
+Transaction Controller,8232,1,1,78
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,84
+Transaction Controller,8232,1,1,84
+GQL GET resolved,8232,1,1,82
+Transaction Controller,8232,1,1,82
+GQL GET resolved,8232,1,1,86
+Transaction Controller,8232,1,1,86
+GQL GET resolved,8232,1,1,82
+Transaction Controller,8232,1,1,82
+GQL GET resolved,8232,1,1,83
+Transaction Controller,8232,1,1,83
+GQL GET resolved,8232,1,1,85
+Transaction Controller,8232,1,1,85
+GQL GET resolved,8232,1,1,78
+Transaction Controller,8232,1,1,78
+GQL GET resolved,8232,1,1,85
+Transaction Controller,8232,1,1,85
+GQL GET resolved,8232,1,1,87
+Transaction Controller,8232,1,1,87
+GQL GET resolved,8232,1,1,80
+Transaction Controller,8232,1,1,80
+GQL GET resolved,8232,1,1,95
+Transaction Controller,8232,1,1,95
+GQL GET resolved,8232,1,1,79
+Transaction Controller,8232,1,1,79
+GQL GET resolved,8232,1,1,76
+Transaction Controller,8232,1,1,76
+GQL GET resolved,8232,1,1,82
+Transaction Controller,8232,1,1,82
+GQL GET resolved,8232,1,1,83
+Transaction Controller,8232,1,1,83
+GQL GET resolved,8232,1,1,91
+Transaction Controller,8232,1,1,91
+GQL GET resolved,8232,1,1,94
+Transaction Controller,8232,1,1,94
+GQL GET resolved,8232,1,1,89
+Transaction Controller,8232,1,1,89
+GQL GET resolved,8232,1,1,85
+Transaction Controller,8232,1,1,85
+GQL GET resolved,8232,1,1,80
+Transaction Controller,8232,1,1,80
+GQL GET resolved,8232,1,1,106
+Transaction Controller,8232,1,1,106
+GQL GET resolved,8232,1,1,86
+Transaction Controller,8232,1,1,86
+GQL GET resolved,8232,1,1,90
+Transaction Controller,8232,1,1,90
+GQL GET resolved,8232,1,1,93
+Transaction Controller,8232,1,1,93
+GQL GET resolved,8232,1,1,86
+Transaction Controller,8232,1,1,86
+GQL GET resolved,8232,1,1,81
+Transaction Controller,8232,1,1,81
+GQL GET resolved,8232,1,1,83
+Transaction Controller,8232,1,1,83
+GQL GET resolved,8232,1,1,86
+Transaction Controller,8232,1,1,86
+GQL GET resolved,8232,1,1,89
+Transaction Controller,8232,1,1,89
+GQL GET resolved,8232,1,1,82
+Transaction Controller,8232,1,1,82
+GQL GET resolved,8232,1,1,86
+Transaction Controller,8232,1,1,86
+GQL GET resolved,8232,1,1,82
+Transaction Controller,8232,1,1,82
